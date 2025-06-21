@@ -1,0 +1,7 @@
+Job Title: Python Developer
+
+Looking for candidates with experience in:
+- Python
+- Machine Learning
+- Streamlit
+- API development

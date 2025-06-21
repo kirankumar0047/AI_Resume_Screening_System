@@ -1,0 +1,16 @@
+Job Title: Machine Learning Engineer
+
+We are seeking a talented and motivated Machine Learning Engineer to join our AI team. 
+
+Responsibilities:
+- Build and deploy machine learning models for real-world problems.
+- Collaborate with data scientists, engineers, and product managers.
+- Work on NLP, computer vision, and deep learning projects.
+- Develop APIs to serve ML models in production.
+
+Requirements:
+- Proficiency in Python.
+- Hands-on experience with TensorFlow, PyTorch, or scikit-learn.
+- Strong understanding of algorithms and statistics.
+- Experience in deploying ML models using Flask or Streamlit.
+- Good communication skills and problem-solving mindset.
