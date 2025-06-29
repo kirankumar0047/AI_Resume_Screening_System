@@ -1,4 +1,7 @@
-# 🧠 AI-Powered Resume Screening System
+🧠 AI-Powered Resume Screening System
+
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Kolla%20KiranKumar-red)
+---
 
 A smart resume screening tool that analyzes and matches resumes to job descriptions using Natural Language Processing and machine learning.
  
